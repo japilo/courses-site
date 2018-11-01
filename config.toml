@@ -1,0 +1,7 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Eco Evo Short Course Directory"
+canonifyUrls = "true"
+theme = "hugo-base-theme"
+[params]
+  description = "A directory of short courses for ecology and evolution researchers."
